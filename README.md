@@ -15,11 +15,12 @@
 ## 📊 My Github Stats
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Naman-72&&show_icons=true&title_color=F4F704&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-72&hide_progress=true">
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-72&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=naman-72&show_icons=true&theme=radical">
  <br/>
-<br/><img alt="Naman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Naman-72&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/><img alt="Naman's Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-72&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
+
 <br/>
 <br/>
 ❤ Views and Followers

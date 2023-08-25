@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying in **[IIT Guwahati](https://www.iitg.ac.in/)** 🏫.
 - 🌱 I’m currently doing BTech in **[Computer Science and Engineering](https://www.iitg.ac.in/cse/)** .👨‍💻
 - 📫 How to reach me 😄 : **[Facebook -  @Naman Anand](https://www.facebook.com/profile.php?id=100008493543339) , [Instagram - @naman5a](https://www.instagram.com/naman5a/?hl=en) , [Linkedin - @Naman Anand](https://www.linkedin.com/in/naman-anand-74a9a1202/)**
-- ⚡ Fun fact: <pre> I like playing Cricket , watching movies and travelling New Places .<br /> I have a girlfriend 👧.<br /> I love to watch WWE Raw and WWE Smackdown .
+- ⚡ Fun fact: <pre> I like playing Cricket , watching movies and travelling New Places 
                 </pre>
  <p align="center">
     <a href="https://github.com/Naman-72/github-readme-streak-stats">

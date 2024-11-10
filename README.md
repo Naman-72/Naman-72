@@ -1,12 +1,16 @@
-### Hi there 👋 , I’m Naman Anand.
+### Hi, friend! Pleased to meet you.
+Chances are, I’ve either directed you here in which case, welcome! Take a look around and let me know if you have any questions. Looking forward to working with you!
 
 ![image](https://github.com/user-attachments/assets/8ad6ca7e-14d0-4e82-aca6-ad49ab8c0cba)
 
-## ABOUT ME 👨‍🎓
+##  whoami 
+
+- I am currently based in beautiful Bangalore, near EcoSpace - and have mapped almost every coffee shop within a  1 mile radius. Let me know if you’re in the area, and let’s caffeinate! ☕
+- I am currently working as DevOps Engineer in Synaptics and had plans to soon launch my Startup. Apart from that I am a Speaker , Tech Entrepreneur and has interest in  Startups, Strategy, Advisor, GTM .
 - 🌱 I completed by BTech in **[Computer Science and Engineering](https://www.iitg.ac.in/cse/)** at  **[IIT Guwahati](https://www.iitg.ac.in/)** 🏫
-- 📫 How to reach me 😄 :  [Linkedin - @Naman Anand](https://www.linkedin.com/in/naman125/)
 - ⚡ Fun fact: <pre> After graduating, I realized my path was beyond the traditional track. It was much entrepreneur track — I wanted to address real societal challenges with a difference. Today, I'm fully committed to solve this, using my skills and curiosity to create value for everyone around me including myself.  </pre>
-- I am currently working as DevOps in Synaptics and had plans to soon launch my Startup. Apart from that I am a Speaker , Tech Entrepreneur and has interest in  Startups, Strategy, Advisor, GTM . I believe true success is via collaboration with brilliant minds and building meaningful. Let's connect—I’d love to support your goals !!
+-  I believe true success is via collaboration with brilliant minds and building meaningful. Let's connect—I’d love to support your goals !! I am available via text message, email, and  [Linkedin - @Naman Anand](https://www.linkedin.com/in/naman125/) at all times - sans plane rides and sleeping hours. Always feel free to text me if you need something and I have given you my number.
+
 
 ## Steering my Life Journey with a source of **𝐁𝐨𝐥𝐝𝐧𝐞𝐬𝐬**.
 
@@ -24,7 +28,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-72&hide_progress=true">
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=naman-72&show_icons=true&theme=radical">
- <br/>
+<br/>
 <br/><img alt="Naman's Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-72&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
 
 <br/>
@@ -34,7 +38,3 @@
 <a href="https://github.com/Naman-72?tab=followers"><img src="https://img.shields.io/github/followers/Naman-72?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-## Connect with me:
-<p align="left">
-<a href = "[https://www.linkedin.com/in/naman125/]"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- </p>

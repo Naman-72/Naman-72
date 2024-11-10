@@ -15,22 +15,6 @@ Chances are, I’ve either directed you here in which case, welcome! Take a look
 ## Steering my Life Journey with a source of **𝐁𝐨𝐥𝐝𝐧𝐞𝐬𝐬**.
 
  
-               
- <p align="center">
-    <a href="https://github.com/Naman-72/github-readme-streak-stats">
-        <img title="Naman Stats" alt="Naman Anand's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-72&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naman-72&hide_progress=true">
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=naman-72&show_icons=true&theme=radical">
-<br/>
-<br/><img alt="Naman's Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph?username=Naman-72&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
-
 <br/>
 <br/>
 ❤ Views and Followers

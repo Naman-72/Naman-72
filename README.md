@@ -1,5 +1,7 @@
 ### Hi there 👋 , I’m Naman Anand.
 
+![image](https://github.com/user-attachments/assets/8ad6ca7e-14d0-4e82-aca6-ad49ab8c0cba)
+
 ## ABOUT ME 👨‍🎓
 - 🌱 I completed by BTech in **[Computer Science and Engineering](https://www.iitg.ac.in/cse/)** at  **[IIT Guwahati](https://www.iitg.ac.in/)** 🏫
 - 📫 How to reach me 😄 :  [Linkedin - @Naman Anand](https://www.linkedin.com/in/naman125/)

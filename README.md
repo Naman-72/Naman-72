@@ -3,7 +3,7 @@ Chances are, I’ve either directed you here in which case, welcome! Take a look
 
 ![image](https://github.com/user-attachments/assets/8ad6ca7e-14d0-4e82-aca6-ad49ab8c0cba)
 
-##  whoami 
+##  About Me 
 
 - I am currently based in beautiful Bangalore, near EcoSpace - and have mapped almost every coffee shop within a  1 mile radius. Let me know if you’re in the area, and let’s caffeinate! ☕
 - I am currently working as DevOps Engineer in Synaptics and had plans to soon launch my Startup. Apart from that I am a Speaker , Tech Entrepreneur and has interest in  Startups, Strategy, Advisor, GTM .
@@ -12,7 +12,7 @@ Chances are, I’ve either directed you here in which case, welcome! Take a look
 -  I believe true success is via collaboration with brilliant minds and building meaningful. Let's connect—I’d love to support your goals !! I am available via text message, email, and  [Linkedin - @Naman Anand](https://www.linkedin.com/in/naman125/) at all times - sans plane rides and sleeping hours. Always feel free to text me if you need something and I have given you my number.
 
 
-## Steering my Life Journey with a source of **𝐁𝐨𝐥𝐝𝐧𝐞𝐬𝐬**.
+## Steering my Life Journey with a source of **𝐁𝐨𝐥𝐝𝐧𝐞𝐬𝐬** **and Discipline** .
 
  
 <br/>

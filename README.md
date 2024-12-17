@@ -14,10 +14,12 @@ Chances are, I’ve either directed you here in which case, welcome! Take a look
 
 ## Steering my Life Journey with a source of **𝐁𝐨𝐥𝐝𝐧𝐞𝐬𝐬** **and Discipline** .
 
-## Startups and Me
-- Worked with Prof Santosh Kumar Pusty , IIM Ranchi Strategy And Enterpreneurship
-- Hosted 2 Events collabration with E-chai Ventures , at Draper Startup House and Urban Vault HSR Layout
-- My Startup is in Progress
+# :🚀 Startups and Myself
+- **🌟 Event Host & Collaborator :** Successfully hosted 2 events in collaboration with [E-chai Ventures](https://echai.ventures/) . Notable Sessions include : Startup Open House Session at [Draper Startup House](https://draperstartuphouse.com/bangalore/) and Marketting Playbook at Urban Vault, HSR Layout
+- **📊 Strategy & Entrepreneurship :**  Worked alongside with Prof Santosh Kumar Pusty IIM Ranchi Strategy And Enterpreneurship at a Vensim Application 
+- **🌐 Social Media Leadership :**  Super Admin of the [Linkedin - @AI Tinkerers Bengaluru](https://www.linkedin.com/company/ai-tinkerers-bangalore/) , building a community of AI enthusiasts and founders
+- **💡 Upcoming Product Launch :** Currently working on launching my product on Product Hunt — designed to help people in innovative ways.
+
  
 <br/>
 <br/>

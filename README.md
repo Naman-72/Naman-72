@@ -14,6 +14,10 @@ Chances are, I’ve either directed you here in which case, welcome! Take a look
 
 ## Steering my Life Journey with a source of **𝐁𝐨𝐥𝐝𝐧𝐞𝐬𝐬** **and Discipline** .
 
+## Startups and Me
+- Worked with Prof Santosh Kumar Pusty , IIM Ranchi Strategy And Enterpreneurship
+- Hosted 2 Events collabration with E-chai Ventures , at Draper Startup House and Urban Vault HSR Layout
+- My Startup is in Progress
  
 <br/>
 <br/>

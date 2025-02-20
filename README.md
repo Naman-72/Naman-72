@@ -5,7 +5,7 @@ Chances are, I’ve either directed you here in which case, welcome! Take a look
 
 ##  About Me 
 
-- I am currently based in beautiful Bangalore, near EcoSpace - and have mapped almost every coffee shop within a  1 mile radius. Let me know if you’re in the area, and let’s caffeinate! ☕
+- I am currently based in beautiful Bangalore, near EcoSpace - and have mapped almost every coffee shop within a  1 mile radius. Let me know if you’re in the area, and let’s caffeinate with filter coffee! ☕
 - I am currently working as DevOps Engineer in Synaptics and had plans to soon launch my Startup. Apart from that I am a Speaker , Tech Entrepreneur and has interest in  Startups, Strategy, Advisor, GTM .
 - 🌱 I completed by BTech in **[Computer Science and Engineering](https://www.iitg.ac.in/cse/)** at  **[IIT Guwahati](https://www.iitg.ac.in/)** 🏫
 - ⚡ Fun fact: <pre> After graduating, I realized my path was beyond the traditional track. It was much entrepreneur track — I wanted to address real societal challenges with a difference. Today, I'm fully committed to solve this, using my skills and curiosity to create value for everyone around me including myself.  </pre>

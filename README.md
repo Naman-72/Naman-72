@@ -18,6 +18,7 @@ Chances are, I’ve either directed you here in which case, welcome! Take a look
 - **🌟 Event Host & Collaborator :** Successfully hosted 2 events in collaboration with [E-chai Ventures](https://echai.ventures/) . Notable Sessions include : Startup Open House Session at [Draper Startup House](https://draperstartuphouse.com/bangalore/) and Marketting Playbook at Urban Vault, HSR Layout
 - **📊 Strategy & Entrepreneurship :**  Worked alongside with Prof Santosh Kumar Pusty IIM Ranchi Strategy And Enterpreneurship at a Vensim Application 
 - **🌐 Social Media Leadership :**  Super Admin of the [Linkedin - @AI Tinkerers Bengaluru](https://www.linkedin.com/company/ai-tinkerers-bangalore/) , building a community of AI enthusiasts and founders
+- **💡 Other Startups :** Working with David and Aishwarya Helping thier startups.
 - **💡 Upcoming Product Launch :** Currently working on launching my product on Product Hunt — designed to help people in innovative ways.
 
  

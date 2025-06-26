@@ -28,4 +28,5 @@ Chances are, I’ve either directed you here in which case, welcome! Take a look
 <img src="https://komarev.com/ghpvc/?username=Naman-72">
 <a href="https://github.com/Naman-72?tab=followers"><img src="https://img.shields.io/github/followers/Naman-72?label=Followers&style=social" alt="GitHub Badge"></a>
 
+A one liner : Building • CS , IIT Guwahati • Entrepreneur • India Tech Starter • Speaker
 
